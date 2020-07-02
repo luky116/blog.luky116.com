@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://blog.luky116.com.git/sitemap.xml
