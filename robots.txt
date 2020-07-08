@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.luky116.com.git/sitemap.xml
+Sitemap: http://blog.luky116.com.git/sitemap.xml

@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="https://blog.luky116.com.git/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://blog.luky116.com.git/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.luky116.com.git/categories/</loc>
+    <loc>http://blog.luky116.com.git/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://blog.luky116.com.git/</loc>
+    <loc>http://blog.luky116.com.git/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://blog.luky116.com.git/tags/</loc>
+    <loc>http://blog.luky116.com.git/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
